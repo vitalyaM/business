@@ -266,7 +266,8 @@ header {
 .header-menu {
   display: none;
   background-color: #fff;
-  overflow: auto; }
+  overflow: auto;
+ }
   @media (max-width: 767.98px) {
     .header-menu {
       width: 100%;
