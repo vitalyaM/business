@@ -771,7 +771,7 @@ header {
     min-height: 448px; }
     @media (max-width: 479.98px) {
       .map__img {
-        min-height: 320; } }
+        min-height: 320px; } }
 
 .form-row {
   display: -webkit-box;
